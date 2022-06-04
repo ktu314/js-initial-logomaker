@@ -1,6 +1,6 @@
 # js-initial-logomaker
 
-**A Python command line application to a "Jane Street logo style" of your initials...**
+**A simple Python command line application make to a "Jane Street logo style" of your initials...**
 
 
 usage: logomaker.py [-h] [-s SIZE] [-o filename] initials
